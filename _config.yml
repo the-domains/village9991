@@ -1,0 +1,28 @@
+name: village9991
+favicon: null
+layout_spectrum: 0.27275589713826776
+typography_spectrum: 0.9947413802146912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8818077279720455
+  lightness: 0.5077843349426985
+  saturation: 0.9460414685308933
+  rhythmicContrast: 0.9416095509659499
+purpose: []
