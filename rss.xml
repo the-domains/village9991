@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[village9991]]></title>
         <description><![CDATA[village9991]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/village9991/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 15:31:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 15:32:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/village9991/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Candy Crush Girls]]></title>
+            <description><![CDATA[<article><h1>Candy Crush Girls</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9b09fc0251124f45b7a1b346410f75ab3d6a822.jpg"></article>]]></description>
+            <link>https://thegrid.ai/village9991/candy-crush-girls/index.html</link>
+            <guid isPermaLink="false">2dae4d44-fdaf-4956-8349-80905ebca820</guid>
+            <pubDate>Wed, 13 Jan 2016 15:31:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gold is the new black]]></title>
             <description><![CDATA[<article><h1>Gold is the new black</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdbc06ba3e164b1884b65cbc61375b92a2e11866.jpg"></article>]]></description>
-            <link>undefinedgold-is-the-new-black/index.html</link>
+            <link>https://thegrid.ai/village9991/gold-is-the-new-black/index.html</link>
             <guid isPermaLink="false">919ae454-3805-4312-a536-f5e4366d48c9</guid>
             <pubDate>Wed, 13 Jan 2016 15:31:33 GMT</pubDate>
         </item>
